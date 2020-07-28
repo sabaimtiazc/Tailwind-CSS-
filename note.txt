@@ -1,0 +1,6 @@
+to create a jason file 
+npm init
+i also install these 
+npm install tailwindcss postcss-cli
+also 
+npm auto prefix
